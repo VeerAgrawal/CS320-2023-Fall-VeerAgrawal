@@ -1,1 +1,1 @@
-let n = 64;;
+let myans = 64;;
